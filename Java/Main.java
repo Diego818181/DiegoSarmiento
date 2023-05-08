@@ -7,6 +7,7 @@ public class Main {
         Carrera carrera2 = new Carrera("Licenciatura en Administración", 3);
         Carrera carrera3 = new Carrera("Licenciatura en Diseño Gráfico", 4);
         Carrera carrera4 = new Carrera("Licenciatura en Marketing", 5);
+        Carrera carrera5 = new Carrera("Informática", 6);
         
         List<Carrera> carreras = new ArrayList<>();
         carreras.add(carrera1);
